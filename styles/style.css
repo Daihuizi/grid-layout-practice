@@ -1,0 +1,26 @@
+/* ADD CODE HERE */
+.container {
+  width: 800px;
+  height: 600px;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#green {
+  background-color: green;
+}
+
+#orange {
+  background-color: orange;
+}
+
+/* DO NOT EDIT BELOW */
+.hidden {
+  display: none;
+}
